@@ -1,1 +1,1 @@
-# Jersey-Jetty-Container
+# Jersey-Jetty-Http-Container
