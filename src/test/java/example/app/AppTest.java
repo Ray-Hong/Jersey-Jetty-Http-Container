@@ -6,7 +6,9 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 import org.junit.Test;
-
+/**
+ * Unit tests.
+ **/
 public class AppTest {
     @Test
     public void testHelloWorld() throws Exception {
